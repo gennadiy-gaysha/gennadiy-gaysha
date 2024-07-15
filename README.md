@@ -1,4 +1,4 @@
-## Hi there, my name is Gennadiy.👋
+## Hi there, my name is Gennadiy 👋
 
 I'm a Junior Full Stack Developer located in Chemnitz, Germany.
 
