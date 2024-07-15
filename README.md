@@ -7,7 +7,9 @@ I have already accumulated considerable experience in building full-stack web ap
 I currently hold a Diploma in Full Stack Development from Code Institute, which is equivalent to Level 5 on the European Qualification Framework (EQF).
 
 You can learn more about me on my LinkedIn account:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](www.linkedin.com/in/gennadiy-gaysha-7118212a/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/gennadiy-gaysha-7118212a/)
+
 
 
 ## My skills:
