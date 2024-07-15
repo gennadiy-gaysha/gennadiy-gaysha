@@ -11,8 +11,9 @@ You can learn more about me on my LinkedIn account:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/gennadiy-gaysha-7118212a/)
 
 
+<b>
 
-## My skills:
+<h3>My skills:</h3>
 
 | Category      | Skills | 
 | ----------- | ----------- | 
