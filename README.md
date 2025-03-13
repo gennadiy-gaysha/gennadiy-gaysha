@@ -7,8 +7,6 @@ Boot and Hibernate, and have already developed my own applications.
 
 I have already accumulated considerable experience in building full-stack web applications and sites. My understanding of the fundamentals of OOP has enabled me to quickly master the Django framework and the React library, that I use to create web projects.
 
-I currently hold a Diploma in Full Stack Development from Code Institute, which is equivalent to Level 5 on the European Qualification Framework (EQF).
-
 You can learn more about me on my LinkedIn account:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/gennadiy-gaysha/)
