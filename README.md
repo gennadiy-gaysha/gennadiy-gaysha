@@ -1,6 +1,9 @@
 ## Hi there, my name is Gennadiy 👋
 
-I'm a Junior Full Stack Developer located in Chemnitz, Germany.
+I am an enthusiastic Junior Java Developer with a degree in Full Stack Software Development from the Code Institute (Level 5 in the EQF). 
+I have a solid understanding of Java development and am an Oracle Certified Associate,
+Java SE 8 Programmer. Currently, I am expanding my skills in modern Java web technologies such as Spring
+Boot and Hibernate, and have already developed my own applications.
 
 I have already accumulated considerable experience in building full-stack web applications and sites. My understanding of the fundamentals of OOP has enabled me to quickly master the Django framework and the React library, that I use to create web projects.
 
